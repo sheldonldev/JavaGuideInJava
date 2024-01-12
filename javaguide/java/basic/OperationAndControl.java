@@ -1,5 +1,5 @@
 package javaguide.java.basic;
 
-public class Operation {
+public class OperationAndControl {
     
 }
