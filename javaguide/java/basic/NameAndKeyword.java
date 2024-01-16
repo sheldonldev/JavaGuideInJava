@@ -71,6 +71,7 @@ class Modifier {
         // restrict the precision and rounding of floating point calculations, get exactly the same results from your floating point calculations on every platform.
         "strictfp"
     );
+
 }
 
 class BasicDataType {
